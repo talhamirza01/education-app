@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:sans-serif;
+  text-decoration: none;
+}
+@media (max-width: 1200px){
+  .container{
+    padding: 25px 50px;
+  }
+  .btn3{
+    padding: 14px 22px;
+  }
+}

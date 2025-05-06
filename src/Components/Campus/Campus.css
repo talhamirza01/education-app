@@ -1,0 +1,29 @@
+.campus{
+    margin: 80px auto;
+    width: 90%;
+    text-align: center;
+}
+.gallery{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+.gallery img{
+    width: 23%;
+    border-radius: 10px;
+}
+.btn1{
+    background: darkblue;
+    color: white;
+   align-items: center;
+   justify-content: center;
+    border-radius: 50px;
+    border: 1px solid;
+    padding: 14px 25px;
+    cursor: pointer;
+}
+.btn1 img{
+    width: 20px;
+    margin-left: 10px;
+}
